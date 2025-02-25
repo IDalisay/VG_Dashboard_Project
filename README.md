@@ -19,8 +19,9 @@ https://www.kaggle.com/datasets/ghassenkhaled/video-games-data/data
 </ul>
 
 ### Cleaning
-•	 Removed rows with null records
-
+<ul>
+  <li>Removed rows with null records. </li>
+</ul>
 
 
 
