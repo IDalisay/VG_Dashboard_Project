@@ -6,9 +6,9 @@ https://www.kaggle.com/datasets/ghassenkhaled/video-games-data/data
 
 ### Established Rules
 <ul>
-  The same game can release on multiple platforms. 
-  The same game can release in multiple years (releasing on a platform).
-  Publishers & Developers can release multiple games (& release multiple of the same game). 
+  <li>The same game can release on multiple platforms. </li>
+  <li>The same game can release in multiple years (releasing on a platform). </li>
+  <li>Publishers & Developers can release multiple games (& release multiple of the same game). </li>
 </ul>
 
 ### General rules found during data exploration
