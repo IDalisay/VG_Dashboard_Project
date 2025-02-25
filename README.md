@@ -12,13 +12,15 @@ https://www.kaggle.com/datasets/ghassenkhaled/video-games-data/data
 </ul>
 
 ### General rules found during data exploration
-•	Sales unit is in million copies sold
-•	_counts are amount of critics and users that have contributed a score
-•	Surrogate PK’s added to each table
-•	Global sales is all other sales summed up 
+<ul>
+  <li>Sales unit is in million copies sold. </li>
+  <li>_counts are amount of critics and users that have contributed a score </li>
+  <li>Global sales is all other sales summed up </li>
+</ul>
 
 ### Cleaning
 •	 Removed rows with null records
+
 
 
 
